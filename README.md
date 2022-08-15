@@ -4,6 +4,7 @@
 
 Soy estudiante de la Bootcamp Full-Stack developer en Factoria F5 (850h) donde estamos aprendiendo mediante metodologias ágiles y pedagogia activa, diferentes lenguajes de programación.
 
+
 ## Tecnologías
 
 * HTML: Version HTML 5 
@@ -17,6 +18,7 @@ Soy estudiante de la Bootcamp Full-Stack developer en Factoria F5 (850h) donde e
 * [php] (https://www.php.net/)
 * [Figma] (https://www.figma.com/)
 
+
 ## Contacto
 
-[Linkedin] www.linkedin.com/in/susanagildeveloper
+![Linkedin](./img/linkedin.png) www.linkedin.com/in/susanagildeveloper
