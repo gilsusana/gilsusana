@@ -1,18 +1,22 @@
-# Buenas!!!👋 Me llamo Suana. 
+# Buenas!!!👋 Me llamo Susana. 
 
-[banpurple](/img/gitban.png)
+![banpurple](./img/gitban.png)
 
-<!--
-**gilsusana/gilsusana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la Bootcamp Full-Stack developer en Factoria F5 (850h) donde estamos aprendiendo mediante metodologias ágiles y pedagogia activa, diferentes lenguajes de programación.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML: Version HTML 5 
+* CSS: Version CSS3
+* [Javascript] (https://www.javascript.com/)
+* [Node.js] (https://nodejs.org/es/)
+* [React] (https://es.reactjs.org/)
+* [Bootstrap] (https://getbootstrap.com/)
+* [Xampp] (https://xampp.uptodown.com/windows)
+* [phpMySQL] (https://www.phpmyadmin.net/)
+* [php] (https://www.php.net/)
+* [Figma] (https://www.figma.com/)
+
+## Contacto
+
+[Linkedin] www.linkedin.com/in/susanagildeveloper
