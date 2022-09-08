@@ -1,6 +1,6 @@
 # Buenas!!!👋 Me llamo Susana. 
 
-![banpurple](./img/banner)
+![banpurple](./img/banner.png)
 
 Soy estudiante de la Bootcamp Full-Stack developer en Factoria F5 (850h) donde estamos aprendiendo mediante metodologias ágiles y pedagogia activa, diferentes lenguajes de programación.
 
