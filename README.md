@@ -22,3 +22,4 @@ Soy estudiante de la Bootcamp Full-Stack developer en Factoria F5 (850h) donde e
 ## Contacto
 
 * [Linkedin] (www.linkedin.com/in/susanagildeveloper)
+* >susanagildeveloper@gmail.com
